@@ -1,3 +1,3 @@
- ⚠️ Warning: This project has been deprecated. Please do not use it for now and wait for the upcoming new version
+Open-source Intelligent Customer Service System. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
 
 
