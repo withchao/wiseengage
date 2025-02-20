@@ -3,11 +3,10 @@ package mgo
 import (
 	"context"
 
-	"wiseengage/server/pkg/common/storage/database"
-	"wiseengage/server/pkg/common/storage/model"
-
 	"github.com/openimsdk/tools/db/mongoutil"
 	"github.com/openimsdk/tools/errs"
+	"github.com/openimsdk/wiseengage/pkg/common/storage/database"
+	"github.com/openimsdk/wiseengage/pkg/common/storage/model"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
